@@ -18,7 +18,7 @@ These files are the direct downloads from MakerWorld. Print all three parts to b
 - **Supports:** Check your slicer preview — the main frame may need supports depending on orientation
 
 ## Hardware Required
-- **M8 bolt** — go as long as you can find (60mm–80mm is ideal). A longer bolt gives you more clamping range to fit different rim widths and depths.
+- **M8 bolt — 35mm** is the sweet spot. The jig body is 15mm deep and the clamp block is 5mm, so you only need enough extra length to reach the rim and tighten down. Anything over 40mm is going to stick out way too far and get in the way.
 - **M8 nut** — standard hex nut, one is enough
 
 ## Assembly
