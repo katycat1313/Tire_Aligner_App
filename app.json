@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "Truck Alignment",
+    "slug": "truck-alignment-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "backgroundColor": "#0f1117"
+    },
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.truckstuff.alignment",
+      "infoPlist": {
+        "NSMotionUsageDescription": "This app uses your phone's motion sensors to measure wheel alignment angles."
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#0f1117"
+      },
+      "package": "com.truckstuff.alignment"
+    },
+    "plugins": [
+      "expo-sensors"
+    ]
+  }
+}
