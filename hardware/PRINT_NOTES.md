@@ -17,12 +17,16 @@ These files are the direct downloads from MakerWorld. Print all three parts to b
 - **Layer height:** 0.2mm
 - **Supports:** Check your slicer preview — the main frame may need supports depending on orientation
 
+## Hardware Required
+- **M8 bolt** — go as long as you can find (60mm–80mm is ideal). A longer bolt gives you more clamping range to fit different rim widths and depths.
+- **M8 nut** — standard hex nut, one is enough
+
 ## Assembly
 1. Print all 3 parts
-2. Get a standard M-size bolt and nut to fit the clamp block (check the hole diameter in your slicer)
-3. Thread the bolt through the clamp block
-4. Press the screwcap onto the bolt head
-5. The assembled clamp slides into the slot on the main frame
+2. Thread the M8 nut into the clamp block
+3. Thread the M8 bolt through the screwcap, then through the clamp block
+4. The assembled clamp slides into the slot on the main jig frame
+5. Hand-tighten against the wheel rim to lock the jig in place
 
 ## How It Works with the App
 1. Clamp the jig to the wheel rim face — **not** the tire sidewall

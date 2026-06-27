@@ -27,7 +27,7 @@ I printed mine on a Creality K1C in PETG. If you're on a different printer, just
 
 **You also need:**
 - An iPhone (iPhone 8 or newer — iOS 15.6+)
-- A standard bolt and nut to assemble the clamp (check the hole size in your slicer)
+- An **M8 bolt (the longer the better) and M8 nut** for the clamp assembly — a longer bolt gives you more clamping range to fit different rim widths
 - A helper for the caster measurement (someone holds the jig while you turn the steering wheel)
 
 ---
